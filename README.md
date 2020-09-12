@@ -1,16 +1,23 @@
 # Discord Revamp [![CodeFactor](https://www.codefactor.io/repository/github/hellbound1337/discord-revamp/badge)](https://www.codefactor.io/repository/github/hellbound1337/discord-revamp)
 A revamped discord based on discord's current website.
 
-# Downloads
-- [BetterDiscord](https://betterdiscord.net/ghdl?id=3316)
-- Powercord: `git clone https://github.com/hellbound1337/discord-revamp/`
+# Requirement
+
+- [BetterDiscord](https://github.com/rauenzi/BetterDiscordApp)
+
+# Installation
+
+- Download [this file](https://srv-file6.gofile.io/downloadStore/srv-store1/WZBOO2/DiscordRevamp.theme.css)
+- Go to your `Discord preferences > theme`
+- Click on `Open Theme Folder` and put the downloaded file here
+- Activate this theme
 
 # Previews
-<img src="https://i.imgur.com/9OccKsz.png"/>
-<img src="https://i.imgur.com/6xEH9hS.png"/>
-<img src="https://i.imgur.com/ZxIFZPb.png"/>
+<img src="https://i.imgur.com/rkHPWut.png"/>
+<img src="https://i.imgur.com/D6hmRir.png"/>
+<img src="https://i.imgur.com/9CULtTr.png"/>
 
 # Support 
-- [Support Server](https://discord.gg/pCc7q4Z)
-- hellbound#9999 
+- The official [support Server](https://discord.gg/pCc7q4Z)
+- Me: *hellbound#9999*
 
