@@ -158,7 +158,7 @@ header.white-3xi-nx.da-white.size14-e6ZScH.header-2C89wJ.da-header,
 }
 
 .sidebar-2K8pFh {
-  border-radius: 25px 0 0 0 !important;
+  border-radius: 25px 0 0 !important;
 }
 
 .modalContent-BM7Qeh.da-modalContent > div:nth-child(1) > div > button:nth-child(1),
@@ -299,6 +299,7 @@ img.graphic--xq3rr.da-graphic {
 
 .da-categorySection {
   background-color: var(--background-tertiary) !important;
+  padding-bottom: 10px;
 }
 
 .theme-dark .notches-1sAcEM.gray-3_LNYR,
@@ -341,10 +342,6 @@ img.graphic--xq3rr.da-graphic {
 
 .content-1LAB8Z {
   padding-top: 20px;
-}
-
-.da-categorySection {
-  padding-bottom: 10px;
 }
 
 .role-item,
