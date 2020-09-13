@@ -1,5 +1,5 @@
 # DiscordNow [![CodeFactor](https://www.codefactor.io/repository/github/hunam6/discordnow/badge)](https://www.codefactor.io/repository/github/hunam6/discordnow)
-A revamped Discord based on discord's current website.
+A Better Discord theme inspired by the new Discord website.
 
 # Requirement
 
