@@ -1,4 +1,4 @@
-# Discord Revamp [![CodeFactor](https://www.codefactor.io/repository/github/hunam6/discord-revamp/badge)](https://www.codefactor.io/repository/github/hunam6/discord-revamp)
+# DiscordNow [![CodeFactor](https://www.codefactor.io/repository/github/hunam6/discordnow/badge)](https://www.codefactor.io/repository/github/hunam6/discordnow)
 A revamped discord based on discord's current website.
 
 # Requirement
@@ -7,7 +7,7 @@ A revamped discord based on discord's current website.
 
 # Installation
 
-- Download [this file](https://github.com/Hunam6/discord-revamp/releases/latest/download/DiscordRevamp.theme.css)
+- Download [this file](https://github.com/Hunam6/DiscordNow/releases/latest/download/DiscordRevamp.theme.css)
 - Go to your `Discord preferences > theme`
 - Click on `Open Theme Folder` and put the downloaded file here
 - Activate this theme
