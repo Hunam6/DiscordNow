@@ -44,8 +44,8 @@
   --toast-contents: var(--background-secondary) !important;
   --toast-box-shadow: rgba(0, 0, 0, 0.2) !important;
   --toast-border: var(--background-tertiary) !important;
-  --bd-blue: var(--background-primary);
-  --bd-blue-hover: var(--background-accent);
-  --bd-blue-active: rgb(50,104,183);
-  --blurple: #7289DA;
+  --bd-blue: var(--background-primary) !important;
+  --bd-blue-hover: var(--background-accent) !important;
+  --bd-blue-active: var(--background-accent) !important;
+  --blurple: #7289DA !important;
 }

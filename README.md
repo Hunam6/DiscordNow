@@ -3,7 +3,7 @@ A revamped discord based on discord's current website.
 
 # Requirement
 
-- [BetterDiscord](https://github.com/rauenzi/BetterDiscordApp)
+- [BetterDiscord](https://github.com/rauenzi/BetterDiscordApp) installed
 
 # Installation
 
