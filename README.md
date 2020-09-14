@@ -19,7 +19,3 @@ A revamped discord based on discord's current website.
 
 # Get support 
 - You can get support from my [Discord server](https://discord.gg/U4qC4RT).
-
-# Credits
-
-- A BIG thanks to [Hellbound](https://discord.gg/bZZrDJN) for creating the [original universal Discord Revamp theme](https://github.com/hellbound1337/discord-revamp) (and **authorizing me** to make my own version for BD only) and the [Dark Discord theme](https://github.com/hellbound1337/dark-discord) (and **authorizing me** to use it as an @import statement) ([proof](https://is.gd/duquzi))!
