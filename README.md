@@ -7,7 +7,7 @@ A Better Discord theme inspired by the new Discord website.
 
 # Installation
 
-- Download [this file](https://github.com/Hunam6/DiscordNow/releases/latest/download/DiscordRevamp.theme.css)
+- Download [this file](https://github.com/Hunam6/DiscordNow/releases/latest/download/DiscordNow.theme.css)
 - Go to your `Discord preferences > theme`
 - Click on `Open Theme Folder` and put the downloaded file here
 - Activate this theme
