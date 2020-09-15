@@ -1339,3 +1339,17 @@ img.graphic--xq3rr.da-graphic {
   z-index: -1;
   pointer-events: none;
 }
+
+.lookInverted-2D7oAl.colorGreen-29iAKY,
+.lookInverted-2D7oAl.colorBrand-3pXr91,
+.buttonInvertedPurple-WtBglX {
+    background-color: rgba(0,0,0,0);
+    border: 1px solid #fff;
+}
+
+.lookInverted-2D7oAl.colorGreen-29iAKY:hover,
+.lookInverted-2D7oAl.colorBrand-3pXr91:hover,
+.buttonInvertedPurple-WtBglX:hover {
+    background-color: rgba(0,0,0,0.2);
+    border: 1px solid #fff;
+}
