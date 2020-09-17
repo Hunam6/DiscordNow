@@ -1078,7 +1078,8 @@ button,
 .da-attachPopout,
 .da-attachPopoutRow,
 .da-autocomplete,
-.da-selectable {
+.da-selectable,
+code {
     border-radius: 25px !important;
 }
 
