@@ -705,6 +705,7 @@ html:not(.platform-win).theme-light .item-PXvHYJ:nth-of-type(19) {
 }
 
 .searchBar-3dMhjb.da-searchBar {
+    height: 28px;
     align-items: center;
 }
 
@@ -1261,10 +1262,6 @@ img.graphic--xq3rr.da-graphic {
 .bd-card.bd-addon-card.settings-open.ui-switch-item>div:nth-child(1) {
     float: none !important;
     padding-bottom: 20px;
-}
-
-.searchBar-3dMhjb.da-searchBar {
-    height: 28px;
 }
 
 .public-DraftEditorPlaceholder-root {
