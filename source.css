@@ -699,8 +699,7 @@ html:not(.platform-win).theme-light .item-PXvHYJ:nth-of-type(19),
 
 .da-searchBarComponent,
 .paypalInput-3MddcM,
-.bd-card.bd-addon-card.settings-open.ui-switch-item>div:nth-child(1),
-.theme-light .app-2rEoOp .container-3baos1>.noWrap-3jynv6>.button-14-BFJ:nth-child(3)::before {
+.bd-card.bd-addon-card.settings-open.ui-switch-item>div:nth-child(1) {
     text-align: center !important;
 }
 
@@ -710,6 +709,7 @@ html:not(.platform-win).theme-light .item-PXvHYJ:nth-of-type(19),
     height: 14px;
     font-size: 17px;
     font-weight: 700;
+    text-align: center !important;
 }
 
 .theme-light .app-2rEoOp .layer-3QrUeG:first-of-type *,
