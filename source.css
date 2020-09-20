@@ -156,7 +156,8 @@
 .colorable-1bkp8v.primaryDark-3mSFDl.active-1QRrIS,
 .colorable-1bkp8v.primaryDark-3mSFDl:hover,
 .theme-dark .scroller-1-nKid,
-.perm-side {
+.perm-side,
+.bd-modal-body {
     background-color: var(--background-primary) !important;
 }
 
