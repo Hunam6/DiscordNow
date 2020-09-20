@@ -325,7 +325,8 @@ theme-dark .option-96V44q.user-O3Czj0 .displayedNick-3xxvzU,
 .bd-switch,
 .bda-settings-button,
 .container-cMG81i.da-container.small-2oHLgT,
-.da-regionSelectModalOption {
+.da-regionSelectModalOption,
+.bd-search-wrapper {
     background-color: var(--background-accent) !important;
 }
 
