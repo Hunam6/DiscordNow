@@ -658,7 +658,6 @@ html:not(.platform-win).theme-light .item-PXvHYJ:nth-of-type(19) {
     overflow: visible;
 }
 
-.theme-light .app-2rEoOp .container-3baos1>.noWrap-3jynv6>.button-14-BFJ:nth-child(3),
 .theme-light .app-2rEoOp .container-3baos1>.noWrap-3jynv6>.button-14-BFJ:nth-child(3)::before {
     width: 230px;
     visibility: visible !important;
@@ -667,6 +666,8 @@ html:not(.platform-win).theme-light .item-PXvHYJ:nth-of-type(19) {
 .theme-light .app-2rEoOp .container-3baos1>.noWrap-3jynv6>.button-14-BFJ:nth-child(3) {
     margin-top: 70px;
     height: 40px;
+    width: 230px;
+    visibility: visible !important;
 }
 
 .platform-win.theme-light .item-PXvHYJ:nth-of-type(20),
