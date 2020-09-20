@@ -630,7 +630,6 @@ theme-dark .option-96V44q.user-O3Czj0 .displayedNick-3xxvzU,
     border-radius: 5px;
 }
 
-.theme-light .layer-3QrUeG:first-of-type::before,
 .theme-light .app-2rEoOp .container-3baos1>.noWrap-3jynv6>.button-14-BFJ:nth-child(3) {
     box-shadow: 0 2px 10px rgba(240, 71, 71, 0.3);
     border-radius: 5px;
@@ -642,6 +641,8 @@ theme-dark .option-96V44q.user-O3Czj0 .displayedNick-3xxvzU,
     width: 400px;
     border: 3px solid #f04747;
     z-index: 2;
+    box-shadow: 0 2px 10px rgba(240, 71, 71, 0.3);
+    border-radius: 5px;
 }
 
 .theme-light .preview-2nSL_2.cardPrimaryOutline-29Ujqw+.marginTop40-i-78cZ .radioGroup-1GBvlr .cardPrimaryEditable-3KtE4g:first-of-type,
