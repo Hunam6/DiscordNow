@@ -458,7 +458,19 @@ theme-dark .option-96V44q.user-O3Czj0 .displayedNick-3xxvzU,
 .video--KPXCT,
 .title-29uC1r,
 .tabBarItem-1b8RUP.da-tabBarItem.item-PXvHYJ.da-item.themed-OHr7kt.da-themed,
-.inputDefault-_djjkz.input-cIJ7To.da-inputDefault.da-input.value-IR9osW.da-value {
+.inputDefault-_djjkz.input-cIJ7To.da-inputDefault.da-input.value-IR9osW.da-value,
+.item-1TLUig.da-item.segmentControlOption-1vCKaY.da-segmentControlOption.selected-P8xTeN,
+.layerContainer-yqaFcK.da-layerContainer>div.layer-2KE1M9.da-layer>div>div>form>div:nth-child(2)>div>div>div.flex-1xMQg5.flex-1O1GKY.da-flex.da-flex.horizontal-1ae9ci.horizontal-2EEEnY.flex-1O1GKY.directionRow-3v3tfG.justifyStart-2NDFzi.alignStretch-DpGPf3.noWrap-3jynv6.modalContent-BM7Qeh.da-modalContent>div:nth-child(1)>div>button:nth-child(3),
+.wrapper-2qzCYF.da-wrapper.minimum-28Z35l,
+.item-1TLUig.da-item.segmentControlOption-1vCKaY.da-segmentControlOption.selected-P8xTeN,
+.wrapper-2qzCYF.da-wrapper.minimum-28Z35l,
+.allow-1PzSY3,
+.guilds-1SWlCJ,
+.passthrough-1c2ewQ.da-passthrough,
+.backdropWithLayer-3_uhz4,
+.headerTitle-1Y0ywV,
+.noChat-18KtBD.video--KPXCT,
+.flex-1xMQg5.flex-1O1GKY.da-flex.da-flex.horizontal-1ae9ci.horizontal-2EEEnY.flex-1O1GKY.directionRow-3v3tfG.justifyStart-2NDFzi.alignStretch-DpGPf3.noWrap-3jynv6.modalContent-BM7Qeh.da-modalContent>div:nth-child(1)>div>button:nth-child(3) {
     border-radius: 0 !important;
 }
 
@@ -516,7 +528,8 @@ theme-dark .option-96V44q.user-O3Czj0 .displayedNick-3xxvzU,
 .item-3eFBNF,
 #app-mount #bd-customcss-attach-controls,
 .emojiRow-zIc7ZX,
-.card-FDVird {
+.card-FDVird,
+.root-1gCeng.da-root.small-3iVZYw.fullscreenOnMobile-1bD22y.da-fullscreenOnMobile {
     box-shadow: none !important;
 }
 
@@ -771,6 +784,10 @@ html:not(.platform-win).theme-light .item-PXvHYJ:nth-of-type(19) {
     border-radius: 3px !important;
 }
 
+.quickSelectPopoutOption-opKBx9 {
+    margin: 5px;
+}
+
 .bd-modal-wrapper .bd-modal-inner,
 .bd-detached-css-editor #bd-customcss-attach-controls button,
 .standardSidebarView-3F1I7i #bd-customcss-attach-controls button,
@@ -907,6 +924,11 @@ html:not(.platform-win).theme-light .item-PXvHYJ:nth-of-type(19) {
     border-top: 1px solid var(--background-modifier-accent);
 }
 
+.callAvatarMask-1SLlRi,
+.da-actionButton {
+    border-radius: 9999px !important;
+}
+
 .da-itemCard,
 .da-popout,
 .da-item,
@@ -1037,7 +1059,17 @@ button,
 .da-selectable,
 code,
 .upsellFooter-6EgwMe.da-upsellFooter,
-.da-promotionBanner {
+.da-promotionBanner,
+.da-cameraPreview,
+iframe,
+.da-cameraPreview,
+.quickSelectPopoutOption-opKBx9,
+.flex-1xMQg5.flex-1O1GKY.da-flex.da-flex.horizontal-1ae9ci.horizontal-2EEEnY.flex-1O1GKY.directionRow-3v3tfG.justifyStart-2NDFzi.alignStretch-DpGPf3.noWrap-3jynv6.footer-2gL1pp.da-footer.footer-YNco4b.da-footer>div>div>span,
+.elevationHigh-3A9Xbf,
+.da-hero,
+.feature-2w65J5,
+.layerContainer-yqaFcK.da-layerContainer>div.layer-2KE1M9.da-layer>div>div>div>div>img,
+.guildDetails-2p1NmK {
     border-radius: 25px !important;
 }
 
@@ -1098,7 +1130,9 @@ img,
 .wrapperPaused-19pWuK,
 .da-sourceThumbnail,
 #popout_13>div>div>section>canvas,
-.graph-2xSPwT.marginTop4-2BNfKC.da-graph.da-marginTop4.modeDefault-3a2Ph1.da-modeDefault>canvas {
+.graph-2xSPwT.marginTop4-2BNfKC.da-graph.da-marginTop4.modeDefault-3a2Ph1.da-modeDefault>canvas,
+.da-premiumLogo,
+.gameIcon-ZGZ9aM {
     border-radius: 15px !important;
 }
 
@@ -1110,7 +1144,8 @@ img.graphic--xq3rr.da-graphic {
     border-radius: 0 0 15px 15px;
 }
 
-.format {
+.format,
+.gameIcon-3XJ9fu {
     border-radius: 10px !important;
 }
 
