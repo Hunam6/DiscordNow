@@ -1,6 +1,6 @@
 /**
  * @name DiscordNow
- * @version 2.3
+ * @version 3.0
  * @description A Better Discord theme inspired by the new Discord website.
  * @source https://github.com/Hunam6/DiscordNow
  * @authorId 365942020923064340
@@ -24,7 +24,7 @@
   --background-modifier-selected: rgba(255, 255, 255, 0.04) !important;
   --background-modifier-accent: hsla(0, 0%, 100%, 0.06) !important;
   --channeltextarea-background: var(--background-accent) !important;
-  --deprecated-card-bg: rgba(0, 0, 0, 0.2) !important;
+  --deprecated-card-bg: #212034 !important;
   --deprecated-card-editable-bg: rgba(0, 0, 0, 0.1) !important;
   --deprecated-text-input-bg: var(--background-tertiary) !important;
   --deprecated-text-input-border: var(--background-floating) !important;
@@ -47,5 +47,5 @@
   --bd-blue: var(--background-primary) !important;
   --bd-blue-hover: var(--background-accent) !important;
   --bd-blue-active: var(--background-accent) !important;
-  --blurple: #7289DA !important;
+  --blurple: #7289da !important;
 }
