@@ -60,7 +60,8 @@
 .uploadModal-2ifh8j,
 .bd-select-option:hover,
 .button-3Ijpww,
-.emptyHintCard-2mUdMe {
+.emptyHintCard-2mUdMe,
+.enabled-1t_Gxm:hover {
   background: var(--background-primary) !important;
 }
 
@@ -115,7 +116,8 @@
 .tierHeaderContent-2-YfvN,
 .bd-select-option.selected,
 .inspector-S2gM3e,
-.diversitySelectorPopout-3FiGaM {
+.diversitySelectorPopout-3FiGaM,
+.popout-38lTFE {
   background: var(--background-tertiary) !important;
 }
 
@@ -291,7 +293,6 @@
 .card-3DjzTQ,
 .categoryPill-34fszg,
 .css-12hk9yc-control,
-.item-PXvHYJ,
 .messageContainer-gbhlwo,
 .jumpButton-2dvRSC,
 .mention,
@@ -349,7 +350,10 @@
 .searchBar--fTZYa,
 .categoryFadeBlurple-1j72_A,
 .emptyHintCard-2mUdMe,
-.container-3PXSwK {
+.container-3PXSwK,
+.popout-38lTFE,
+.wrapper-3Rixsz,
+.memberListItem-31QoHj {
   border-radius: 25px !important;
 }
 
